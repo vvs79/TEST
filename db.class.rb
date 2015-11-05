@@ -1,0 +1,1 @@
+Something class for works with mysql datebase
